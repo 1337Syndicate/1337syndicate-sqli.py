@@ -1,7 +1,7 @@
 """
 1337Syndicate
 IT Security Development Research
-Coded XylaufyyyId
+Coded XylaufyyyId.
 """
 import requests
 import sys
